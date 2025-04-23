@@ -116,7 +116,7 @@ The system uses a structured prompt design that follows these key principles:
    - A rectangle is drawn on the first slide
    - The final result is added inside the rectangle
 4. **Email Sending**:
-   - An email is sent to erav3group@gmail.com
+   - An email is sent to padmanabhbosamia@gmail.com
    - The email includes the input text, ASCII values, and final result
    - The PowerPoint presentation is attached to the email
 
